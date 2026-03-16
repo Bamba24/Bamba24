@@ -16,16 +16,16 @@ Passionné par la création d'applications qui ont un impact réel, particulièr
 
 ## 🏗 Key Projects
 
-### 🎓 [Jokko Academy](https://github.com/ton-pseudo/jokko-academy)
+### 🎓 [Jokko Academy](https://github.com/Bamba24/jokko-academy)
 Application mobile pour apprendre l'anglais à partir de zéro. 
 - *Focus:* Méthodes d'apprentissage progressives, interface intuitive.
 - *Tech:* React Native, TypeScript, AI Integration.
 
-### 🚚 [Logistics Planner](https://github.com/ton-pseudo/logistics-tool)
+### 🚚 [Logistics Planner](https://github.com/Bamba24/logistics-tool)
 Outil de planification de tournées avec calcul de distances et gestion de villes.
 - *Focus:* Optimisation des trajets et interface dashboard moderne.
 
-### 👟 [Shoe-Commerce](https://github.com/ton-pseudo/shoe-store)
+### 👟 [Shoe-Commerce](https://github.com/Bamba24/shoe-store)
 Plateforme e-commerce avec génération automatique de factures PDF.
 - *Focus:* Automatisation des processus de vente et dashboard admin.
 
