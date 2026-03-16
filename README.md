@@ -3,7 +3,7 @@
 ### 🚀 Junior Fullstack Developer | JavaScript & Mobile Specialist
 Passionné par la création d'applications qui ont un impact réel, particulièrement dans les secteurs de l'**Éducation (EdTech)** et de la **Logistique**. 
 
----
+
 
 ## 🛠 My Tech Stack
 
@@ -12,7 +12,7 @@ Passionné par la création d'applications qui ont un impact réel, particulièr
 - **Mobile:** React Native (Expo)
 - **Workflow:** Agile (Scrum/Kanban), Git, Docker
 
----
+
 
 ## 🏗 Key Projects
 
@@ -29,19 +29,14 @@ Outil de planification de tournées avec calcul de distances et gestion de ville
 Plateforme e-commerce avec génération automatique de factures PDF.
 - *Focus:* Automatisation des processus de vente et dashboard admin.
 
----
 
 ## 🎓 Education & Background
 - **Master 1 en Sciences de l'Éducation** (UFR SEFS, Université Gaston Berger)
 - Autodidacte passionné et développeur Fullstack junior.
 
----
 
 ## 📫 Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/mouhamadou-bamba-diagne-59063a247/)
 - 📍 Based in Senegal (Dakar / Saint-Louis)
 - ⚡ Fun fact: Je construis des ponts entre le code et la pédagogie.
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bamba24&show_icons=true&theme=radical)
