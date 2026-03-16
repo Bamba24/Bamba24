@@ -38,10 +38,10 @@ Plateforme e-commerce avec génération automatique de factures PDF.
 ---
 
 ## 📫 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/ton-profil-linkedin)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mouhamadou-bamba-diagne-59063a247/)
 - 📍 Based in Senegal (Dakar / Saint-Louis)
 - ⚡ Fun fact: Je construis des ponts entre le code et la pédagogie.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bamba24&show_icons=true&theme=radical)
