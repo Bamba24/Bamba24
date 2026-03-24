@@ -1,7 +1,7 @@
 # Hi there, I'm Bamba 👋 🇸🇳
 
 ### 🚀 Junior Fullstack Developer | JavaScript & Mobile Specialist
-Passionné par la création d'applications qui ont un impact réel. 
+Passionné par la création d'applications qui ont un impact réel. vous pouver consulter mon portfolio pour en savoir plus juste ici 👋 [Portfolio](https://portofolio-one-lake.vercel.app/)
 
 
 
