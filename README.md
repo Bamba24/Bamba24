@@ -16,7 +16,7 @@ Passionné par la création d'applications qui ont un impact réel.
 
 ## 🏗 Key Projects
 
-### 🎓 [web agence](https://github.com/Bamba24/jokko-academy)
+### 🎓 [web agence](https://github.com/Bamba24/Agence)
 Application web pour proposer mes services en tant que développeur.
 - *Tech:* React, TypeScript, Tailwind-CSS, vercel.
 
