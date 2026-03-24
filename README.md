@@ -1,7 +1,7 @@
 # Hi there, I'm Bamba 👋 🇸🇳
 
 ### 🚀 Junior Fullstack Developer | JavaScript & Mobile Specialist
-Passionné par la création d'applications qui ont un impact réel, particulièrement dans les secteurs de l'**Éducation (EdTech)** et de la **Logistique**. 
+Passionné par la création d'applications qui ont un impact réel. 
 
 
 
@@ -16,27 +16,27 @@ Passionné par la création d'applications qui ont un impact réel, particulièr
 
 ## 🏗 Key Projects
 
-### 🎓 [Jokko Academy](https://github.com/Bamba24/jokko-academy)
-Application mobile pour apprendre l'anglais à partir de zéro. 
-- *Focus:* Méthodes d'apprentissage progressives, interface intuitive.
-- *Tech:* React Native, TypeScript, AI Integration.
+### 🎓 [web agence](https://github.com/Bamba24/jokko-academy)
+Application web pour proposer mes services en tant que développeur.
+- *Tech:* React, TypeScript, Tailwind-CSS, vercel.
 
-### 🚚 [Logistics Planner](https://github.com/Bamba24/logistics-tool)
-Outil de planification de tournées avec calcul de distances et gestion de villes.
-- *Focus:* Optimisation des trajets et interface dashboard moderne.
+### 🎓 [Blog](https://github.com/Bamba24/jokko-academy)
+Application web pour partager mes articles sur ma stack de tout les jours.
+- *Tech:* Nextjs, TypeScript, Talwind-Css, Better-Auth, Prisma, Neon, Vercel.
 
 ### 👟 [Shoe-Commerce](https://github.com/Bamba24/shoe-store)
 Plateforme e-commerce avec génération automatique de factures PDF.
 - *Focus:* Automatisation des processus de vente et dashboard admin.
+- *Tech:* Nextjs, TypeScript, Talwind-Css, mysql, Prisma, railway.
 
 
 ## 🎓 Education & Background
-- **Master 1 en Sciences de l'Éducation** (UFR SEFS, Université Gaston Berger)
+- **Certifié du bootcamp développement Fullstack Javascript et mobile chez Xarala Academy en novembre 2025** 
 - Autodidacte passionné et développeur Fullstack junior.
 
 
 ## 📫 Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/mouhamadou-bamba-diagne-59063a247/)
 - 📍 Based in Senegal (Dakar / Saint-Louis)
-- ⚡ Fun fact: Je construis des ponts entre le code et la pédagogie.
+- ⚡ Fun fact: Je construis des ponts entre le code et ton projet.
 
