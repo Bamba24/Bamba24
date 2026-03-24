@@ -11,6 +11,7 @@ Passionné par la création d'applications qui ont un impact réel. vous pouver 
 - **Backend:** Node.js, NestJS, Prisma, PostgreSQL
 - **Mobile:** React Native (Expo)
 - **Workflow:** Agile (Scrum/Kanban), Git, Docker
+- **Database:** MySQL, SQL, PostgreSQL
 
 
 
