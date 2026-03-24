@@ -20,7 +20,7 @@ Passionné par la création d'applications qui ont un impact réel.
 Application web pour proposer mes services en tant que développeur.
 - *Tech:* React, TypeScript, Tailwind-CSS, vercel.
 
-### 🎓 [Blog](https://github.com/Bamba24/jokko-academy)
+### 🎓 [Blog](https://github.com/Bamba24/blog-app)
 Application web pour partager mes articles sur ma stack de tout les jours.
 - *Tech:* Nextjs, TypeScript, Talwind-Css, Better-Auth, Prisma, Neon, Vercel.
 
