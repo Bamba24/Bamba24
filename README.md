@@ -24,7 +24,7 @@ Application web pour proposer mes services en tant que développeur.
 Application web pour partager mes articles sur ma stack de tout les jours.
 - *Tech:* Nextjs, TypeScript, Talwind-Css, Better-Auth, Prisma, Neon, Vercel.
 
-### 👟 [Shoe-Commerce](https://github.com/Bamba24/shoe-store)
+### 👟 [Shoe-Commerce](https://github.com/Bamba24/E-commerce-shoes-v1/)
 Plateforme e-commerce avec génération automatique de factures PDF.
 - *Focus:* Automatisation des processus de vente et dashboard admin.
 - *Tech:* Nextjs, TypeScript, Talwind-Css, mysql, Prisma, railway.
